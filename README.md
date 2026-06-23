@@ -54,6 +54,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🧪 Test Results
 
+```
 (base) haoxuantang@Haoxuans-MacBook-Pro game-glitch-investigator % python -m pytest
 ===================================== test session starts =====================================
 platform darwin -- Python 3.13.13, pytest-9.1.1, pluggy-1.6.0
@@ -64,6 +65,7 @@ collected 14 items
 tests/test_game_logic.py ..............                                                 [100%]
 
 ===================================== 14 passed in 0.01s ======================================
+```
 
 ## 🚀 Stretch Features
 
